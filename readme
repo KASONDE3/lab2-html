@@ -1,0 +1,8 @@
+ Setup Lab2-html project folder and added index and readme files
+
+ index.html validation using W3C validator inorder to check if it conforms to HTML5 semantic structure (<header>, <nav>, <main>,<section>, <article>, <aside> and <footer>)
+
+HTML5 Form validation using <textarea> tags and email validation with input type="email"
+
+W3C Validator Output:
+Document checking completed. No errors or warnings to show.
